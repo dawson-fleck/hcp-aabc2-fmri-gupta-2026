@@ -1,0 +1,25 @@
+# Restricted/local research data
+data/
+*.xlsx
+*.xls
+*.csv
+*.zip
+
+# Generated analysis outputs
+outputs/
+results/
+figures_generated/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Editors and operating systems
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
